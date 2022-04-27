@@ -33,7 +33,7 @@
 - [x] It was consistently wrong.
 - [ ] It was inconsistently wrong.
 - [ ] It was consistently right.
-- [ ] It was equally right end wrong.
+- [ ] It was equally right and wrong.
 
 [Reference](https://medium.com/datadriveninvestor/bias-and-variance-in-machine-learning-51fdd38d1f86)
 
